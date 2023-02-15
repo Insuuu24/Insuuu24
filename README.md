@@ -1,5 +1,18 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insuuu24&show_icons=true&theme=dark)
+
+<div align = "center">
+
+
+<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insuuu24&theme=tokyonight&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
+
+### Insu
+
+---
+
+![Insuuu24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insuuu24&show_icons=true&theme=highcontrast)
+
+    
+</div>
 
 
 
@@ -8,23 +21,11 @@
 
 
 
+<!--![Insuuu24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insuuu24&show_icons=true&theme=highcontrast) [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insuuu24&langs_count=8)](https://github.com/Insuuu24/github-readme-stats)-->
+<!---->
 
 
 
 
 
 
-<!--
-**Insuuu24/Insuuu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
