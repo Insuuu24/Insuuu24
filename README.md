@@ -2,12 +2,12 @@
 
 
 
-### Insu
+## Insu
 
 ---
 
-### Tech Stack
-<img src="https://img.shields.io/badge/swift-important?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
+## Tech Stack
+<img src="https://img.shields.io/badge/Swift-important?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/UIKit-skyblue?style=flat-square&logo=UIKit&logoColor=FFFFFF"/>
 
 
