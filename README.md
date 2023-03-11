@@ -4,9 +4,8 @@
 
 #
 <h3> Tech Stack </h3>
-<p><img src="https://img.shields.io/badge/Swift-important?style=flat-square&logo=Swift&logoColor=FFFFFF"/></p>
+<p><img src="https://img.shields.io/badge/Swift-important?style=flat-square&logo=Swift&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/UIKit-skyblue?style=flat-square&logo=UIKit&logoColor=FFFFFF"/></p>
 
-<p><img src="https://img.shields.io/badge/UIKit-skyblue?style=flat-square&logo=UIKit&logoColor=FFFFFF"/></p>
 
 
 
