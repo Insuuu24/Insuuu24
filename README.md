@@ -16,10 +16,10 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Insuuu24&show_icons=true&theme=github_dark" width="390" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Insuuu24&show_icons=true&theme=github_dark" width="400" />
     </a>
     <a href="https://git.io/streak-stats" title="Go to Source">
-        <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Insuuu24&theme=github-dark-blue" width="390" />
+        <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Insuuu24&theme=github-dark-blue" width="400" />
     </a>
 </div>
 
